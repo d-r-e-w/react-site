@@ -1,3 +1,9 @@
+# run project
+
+npm install
+
+npm start
+
 # react-site
 
 Documentation	https://developers.themoviedb.org/3
